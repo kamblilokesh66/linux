@@ -1,0 +1,6 @@
+#!/bin/bash
+if [ $ a == & b ]
+then "a is equal to b"
+fi
+
+  
